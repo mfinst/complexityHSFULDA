@@ -45,8 +45,8 @@ neighbors = [('A', 'B'), ('B', 'C'), ('C', 'D'), ('D', 'E')]
 Zu lesen:
 - [On Computable Numbers](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 - [Karp 21 NP Probleme](https://people.eecs.berkeley.edu/~luca/cs172/karp.pdf)
-- [Immerman-Szelepscenyi Theorem]()
-- [Minesweeper NP-Completeness](http://web.math.ucsb.edu/~padraic/ucsb_2014_15/ccs_problem_solving_w2015/NP3.pdf)
+- [Immerman-Szelepscenyi Theorem](https://ieeexplore.ieee.org/document/5270/)
+- [Minesweeper NP-Completeness](http://simon.bailey.at/random/kaye.minesweeper.pdf) [2](http://web.math.ucsb.edu/~padraic/ucsb_2014_15/ccs_problem_solving_w2015/NP3.pdf)
 ### Reduktionen
 #### CLIQUE auf INDSET
 [source1](https://math.stackexchange.com/questions/61963/clique-and-independent-set-proof),
