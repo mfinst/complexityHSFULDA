@@ -44,7 +44,7 @@ neighbors = [('A', 'B'), ('B', 'C'), ('C', 'D'), ('D', 'E')]
 ## Papers
 Zu lesen:
 - [On Computable Numbers](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
-- [Karp 21 NP Probleme]()
+- [Karp 21 NP Probleme](https://people.eecs.berkeley.edu/~luca/cs172/karp.pdf)
 - [Immerman-Szelepscenyi Theorem]()
 - [Minesweeper NP-Completeness](http://web.math.ucsb.edu/~padraic/ucsb_2014_15/ccs_problem_solving_w2015/NP3.pdf)
 ### Reduktionen
